@@ -6,6 +6,7 @@ This is an open-source database for values to add to a drop down menu in forms/a
 2. Industries
 3. States of USA
 4. Countries around the World
+5. Years from 1900 to present
 
 ## Format
 .txt files for the datadources -> making it easy to copy
